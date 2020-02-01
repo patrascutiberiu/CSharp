@@ -1,0 +1,8 @@
+C:\exo_ABCDEV\exo_algoV1\Nbpremier\bin\Debug\Nbpremier.exe.config
+C:\exo_ABCDEV\exo_algoV1\Nbpremier\bin\Debug\Nbpremier.exe
+C:\exo_ABCDEV\exo_algoV1\Nbpremier\bin\Debug\Nbpremier.pdb
+C:\exo_ABCDEV\exo_algoV1\Nbpremier\obj\Debug\Nbpremier.exe
+C:\exo_ABCDEV\exo_algoV1\Nbpremier\obj\Debug\Nbpremier.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exo_algoV1\Nbpremier\bin\Debug\Nbpremier.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exo_algoV1\Nbpremier\obj\Debug\Nbpremier.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exo_algoV1\Nbpremier\obj\Debug\Nbpremier.pdb

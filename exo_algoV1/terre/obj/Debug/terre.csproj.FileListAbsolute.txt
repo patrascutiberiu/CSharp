@@ -1,0 +1,11 @@
+C:\exo_ABCDEV\enonce1\terre\bin\Debug\terre.exe.config
+C:\exo_ABCDEV\enonce1\terre\obj\Debug\terre.csprojResolveAssemblyReference.cache
+C:\exo_ABCDEV\enonce1\terre\bin\Debug\terre.exe
+C:\exo_ABCDEV\enonce1\terre\bin\Debug\terre.pdb
+C:\exo_ABCDEV\enonce1\terre\obj\Debug\terre.exe
+C:\exo_ABCDEV\enonce1\terre\obj\Debug\terre.pdb
+C:\exo_ABCDEV\exo_algoV1\terre\bin\Debug\terre.exe.config
+C:\exo_ABCDEV\exo_algoV1\terre\obj\Debug\terre.exe
+C:\exo_ABCDEV\exo_algoV1\terre\obj\Debug\terre.pdb
+C:\exo_ABCDEV\exo_algoV1\terre\bin\Debug\terre.exe
+C:\exo_ABCDEV\exo_algoV1\terre\bin\Debug\terre.pdb

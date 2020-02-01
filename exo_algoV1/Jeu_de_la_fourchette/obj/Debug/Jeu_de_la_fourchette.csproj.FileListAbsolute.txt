@@ -1,0 +1,5 @@
+C:\exo_ABCDEV\exo_algoV1\Jeu_de_la_fourchette\bin\Debug\Jeu_de_la_fourchette.exe.config
+C:\exo_ABCDEV\exo_algoV1\Jeu_de_la_fourchette\bin\Debug\Jeu_de_la_fourchette.exe
+C:\exo_ABCDEV\exo_algoV1\Jeu_de_la_fourchette\bin\Debug\Jeu_de_la_fourchette.pdb
+C:\exo_ABCDEV\exo_algoV1\Jeu_de_la_fourchette\obj\Debug\Jeu_de_la_fourchette.exe
+C:\exo_ABCDEV\exo_algoV1\Jeu_de_la_fourchette\obj\Debug\Jeu_de_la_fourchette.pdb

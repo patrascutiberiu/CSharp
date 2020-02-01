@@ -1,0 +1,20 @@
+C:\Users\Patrascu\source\repos\SolutionBanqueTableaux\ConsoleAppBanque\bin\Debug\ConsoleAppBanque.exe.config
+C:\Users\Patrascu\source\repos\SolutionBanqueTableaux\ConsoleAppBanque\bin\Debug\ConsoleAppBanque.exe
+C:\Users\Patrascu\source\repos\SolutionBanqueTableaux\ConsoleAppBanque\bin\Debug\ConsoleAppBanque.pdb
+C:\Users\Patrascu\source\repos\SolutionBanqueTableaux\ConsoleAppBanque\bin\Debug\ClassLibraryBanque.dll
+C:\Users\Patrascu\source\repos\SolutionBanqueTableaux\ConsoleAppBanque\bin\Debug\ClassLibraryBanque.pdb
+C:\Users\Patrascu\source\repos\SolutionBanqueTableaux\ConsoleAppBanque\obj\Debug\ConsoleAppBanque.csprojAssemblyReference.cache
+C:\Users\Patrascu\source\repos\SolutionBanqueTableaux\ConsoleAppBanque\obj\Debug\ConsoleAppBanque.csproj.CoreCompileInputs.cache
+C:\Users\Patrascu\source\repos\SolutionBanqueTableaux\ConsoleAppBanque\obj\Debug\ConsoleAppBanque.csproj.CopyComplete
+C:\Users\Patrascu\source\repos\SolutionBanqueTableaux\ConsoleAppBanque\obj\Debug\ConsoleAppBanque.exe
+C:\Users\Patrascu\source\repos\SolutionBanqueTableaux\ConsoleAppBanque\obj\Debug\ConsoleAppBanque.pdb
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionBanqueTableaux\ConsoleAppBanque\bin\Debug\ConsoleAppBanque.exe.config
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionBanqueTableaux\ConsoleAppBanque\bin\Debug\ConsoleAppBanque.exe
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionBanqueTableaux\ConsoleAppBanque\bin\Debug\ConsoleAppBanque.pdb
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionBanqueTableaux\ConsoleAppBanque\bin\Debug\ClassLibraryBanque.dll
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionBanqueTableaux\ConsoleAppBanque\bin\Debug\ClassLibraryBanque.pdb
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionBanqueTableaux\ConsoleAppBanque\obj\Debug\ConsoleAppBanque.csprojAssemblyReference.cache
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionBanqueTableaux\ConsoleAppBanque\obj\Debug\ConsoleAppBanque.csproj.CoreCompileInputs.cache
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionBanqueTableaux\ConsoleAppBanque\obj\Debug\ConsoleAppBanque.csproj.CopyComplete
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionBanqueTableaux\ConsoleAppBanque\obj\Debug\ConsoleAppBanque.exe
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionBanqueTableaux\ConsoleAppBanque\obj\Debug\ConsoleAppBanque.pdb

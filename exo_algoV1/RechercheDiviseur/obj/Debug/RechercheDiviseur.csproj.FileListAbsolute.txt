@@ -1,0 +1,5 @@
+C:\exo_ABCDEV\exo_algoV1\RechercheDiviseur\bin\Debug\RechercheDiviseur.exe.config
+C:\exo_ABCDEV\exo_algoV1\RechercheDiviseur\bin\Debug\RechercheDiviseur.exe
+C:\exo_ABCDEV\exo_algoV1\RechercheDiviseur\bin\Debug\RechercheDiviseur.pdb
+C:\exo_ABCDEV\exo_algoV1\RechercheDiviseur\obj\Debug\RechercheDiviseur.exe
+C:\exo_ABCDEV\exo_algoV1\RechercheDiviseur\obj\Debug\RechercheDiviseur.pdb

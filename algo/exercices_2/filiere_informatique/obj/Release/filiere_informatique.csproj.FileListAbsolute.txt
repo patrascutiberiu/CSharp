@@ -1,0 +1,7 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\filiere_informatique\bin\Release\filiere_informatique.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\filiere_informatique\bin\Release\filiere_informatique.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\filiere_informatique\bin\Release\filiere_informatique.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\filiere_informatique\obj\Release\filiere_informatique.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\filiere_informatique\obj\Release\filiere_informatique.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\filiere_informatique\obj\Release\filiere_informatique.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\filiere_informatique\obj\Release\filiere_informatique.pdb

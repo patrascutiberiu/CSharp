@@ -1,0 +1,21 @@
+C:\Users\CRM\Desktop\fraction\objet_fraction\bin\Debug\objet_fraction.exe.config
+C:\Users\CRM\Desktop\fraction\objet_fraction\bin\Debug\objet_fraction.exe
+C:\Users\CRM\Desktop\fraction\objet_fraction\bin\Debug\objet_fraction.pdb
+C:\Users\CRM\Desktop\fraction\objet_fraction\obj\Debug\objet_fraction.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\fraction\objet_fraction\obj\Debug\objet_fraction.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\fraction\objet_fraction\obj\Debug\objet_fraction.exe
+C:\Users\CRM\Desktop\fraction\objet_fraction\obj\Debug\objet_fraction.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\fraction\objet_fraction\bin\Debug\objet_fraction.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\fraction\objet_fraction\bin\Debug\objet_fraction.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\fraction\objet_fraction\bin\Debug\objet_fraction.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\fraction\objet_fraction\obj\Debug\objet_fraction.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\fraction\objet_fraction\obj\Debug\objet_fraction.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\fraction\objet_fraction\obj\Debug\objet_fraction.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\fraction\objet_fraction\obj\Debug\objet_fraction.pdb
+C:\Users\Patrascu\Desktop\dwwm\tib exo C#\tiberiu-abc.dev\objet\fraction\objet_fraction\bin\Debug\objet_fraction.exe.config
+C:\Users\Patrascu\Desktop\dwwm\tib exo C#\tiberiu-abc.dev\objet\fraction\objet_fraction\bin\Debug\objet_fraction.exe
+C:\Users\Patrascu\Desktop\dwwm\tib exo C#\tiberiu-abc.dev\objet\fraction\objet_fraction\bin\Debug\objet_fraction.pdb
+C:\Users\Patrascu\Desktop\dwwm\tib exo C#\tiberiu-abc.dev\objet\fraction\objet_fraction\obj\Debug\objet_fraction.csprojAssemblyReference.cache
+C:\Users\Patrascu\Desktop\dwwm\tib exo C#\tiberiu-abc.dev\objet\fraction\objet_fraction\obj\Debug\objet_fraction.csproj.CoreCompileInputs.cache
+C:\Users\Patrascu\Desktop\dwwm\tib exo C#\tiberiu-abc.dev\objet\fraction\objet_fraction\obj\Debug\objet_fraction.exe
+C:\Users\Patrascu\Desktop\dwwm\tib exo C#\tiberiu-abc.dev\objet\fraction\objet_fraction\obj\Debug\objet_fraction.pdb

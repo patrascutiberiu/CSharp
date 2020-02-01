@@ -1,0 +1,11 @@
+C:\exo_ABCDEV\enonce1\moyenne\bin\Debug\moyenne.exe.config
+C:\exo_ABCDEV\enonce1\moyenne\bin\Debug\moyenne.exe
+C:\exo_ABCDEV\enonce1\moyenne\bin\Debug\moyenne.pdb
+C:\exo_ABCDEV\enonce1\moyenne\obj\Debug\moyenne.csprojResolveAssemblyReference.cache
+C:\exo_ABCDEV\enonce1\moyenne\obj\Debug\moyenne.exe
+C:\exo_ABCDEV\enonce1\moyenne\obj\Debug\moyenne.pdb
+C:\exo_ABCDEV\exo_algoV1\moyenne\bin\Debug\moyenne.exe.config
+C:\exo_ABCDEV\exo_algoV1\moyenne\obj\Debug\moyenne.exe
+C:\exo_ABCDEV\exo_algoV1\moyenne\obj\Debug\moyenne.pdb
+C:\exo_ABCDEV\exo_algoV1\moyenne\bin\Debug\moyenne.exe
+C:\exo_ABCDEV\exo_algoV1\moyenne\bin\Debug\moyenne.pdb

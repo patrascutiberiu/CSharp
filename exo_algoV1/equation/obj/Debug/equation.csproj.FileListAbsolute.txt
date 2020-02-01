@@ -1,0 +1,5 @@
+C:\exo_ABCDEV\exo_algoV1\equation\bin\Debug\equation.exe.config
+C:\exo_ABCDEV\exo_algoV1\equation\bin\Debug\equation.exe
+C:\exo_ABCDEV\exo_algoV1\equation\bin\Debug\equation.pdb
+C:\exo_ABCDEV\exo_algoV1\equation\obj\Debug\equation.exe
+C:\exo_ABCDEV\exo_algoV1\equation\obj\Debug\equation.pdb

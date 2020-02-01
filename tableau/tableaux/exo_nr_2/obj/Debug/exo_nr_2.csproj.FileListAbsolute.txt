@@ -1,0 +1,21 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_2\bin\Debug\exo_nr_2.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_2\bin\Debug\exo_nr_2.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_2\bin\Debug\exo_nr_2.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_2\obj\Debug\exo_nr_2.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_2\obj\Debug\exo_nr_2.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_2\obj\Debug\exo_nr_2.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_2\obj\Debug\exo_nr_2.pdb
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_2\bin\Debug\exo_nr_2.exe.config
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_2\bin\Debug\exo_nr_2.exe
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_2\bin\Debug\exo_nr_2.pdb
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_2\obj\Debug\exo_nr_2.csprojAssemblyReference.cache
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_2\obj\Debug\exo_nr_2.csproj.CoreCompileInputs.cache
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_2\obj\Debug\exo_nr_2.exe
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_2\obj\Debug\exo_nr_2.pdb
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\exo_nr_2\bin\Debug\exo_nr_2.exe.config
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\exo_nr_2\bin\Debug\exo_nr_2.exe
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\exo_nr_2\bin\Debug\exo_nr_2.pdb
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\exo_nr_2\obj\Debug\exo_nr_2.csprojAssemblyReference.cache
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\exo_nr_2\obj\Debug\exo_nr_2.csproj.CoreCompileInputs.cache
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\exo_nr_2\obj\Debug\exo_nr_2.exe
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\exo_nr_2\obj\Debug\exo_nr_2.pdb

@@ -1,0 +1,5 @@
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\aetbetc\bin\Debug\aetbetc.exe.config
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\aetbetc\bin\Debug\aetbetc.exe
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\aetbetc\bin\Debug\aetbetc.pdb
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\aetbetc\obj\Debug\aetbetc.exe
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\aetbetc\obj\Debug\aetbetc.pdb

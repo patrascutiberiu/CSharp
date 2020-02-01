@@ -1,0 +1,11 @@
+C:\exo_ABCDEV\enonce1\projet_enonce1\bin\Debug\projet_enonce1.exe.config
+C:\exo_ABCDEV\enonce1\projet_enonce1\bin\Debug\projet_enonce1.exe
+C:\exo_ABCDEV\enonce1\projet_enonce1\bin\Debug\projet_enonce1.pdb
+C:\exo_ABCDEV\enonce1\projet_enonce1\obj\Debug\projet_enonce1.csprojResolveAssemblyReference.cache
+C:\exo_ABCDEV\enonce1\projet_enonce1\obj\Debug\projet_enonce1.exe
+C:\exo_ABCDEV\enonce1\projet_enonce1\obj\Debug\projet_enonce1.pdb
+C:\exo_ABCDEV\exo_algoV1\projet_enonce1\bin\Debug\projet_enonce1.exe.config
+C:\exo_ABCDEV\exo_algoV1\projet_enonce1\obj\Debug\projet_enonce1.exe
+C:\exo_ABCDEV\exo_algoV1\projet_enonce1\obj\Debug\projet_enonce1.pdb
+C:\exo_ABCDEV\exo_algoV1\projet_enonce1\bin\Debug\projet_enonce1.exe
+C:\exo_ABCDEV\exo_algoV1\projet_enonce1\bin\Debug\projet_enonce1.pdb

@@ -1,0 +1,28 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\tri_minima\bin\Debug\tri_minima.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\tri_minima\bin\Debug\tri_minima.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\tri_minima\bin\Debug\tri_minima.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\tri_minima\obj\Debug\tri_minima.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\tri_minima\obj\Debug\tri_minima.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\tri_minima\obj\Debug\tri_minima.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\tri_minima\obj\Debug\tri_minima.pdb
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\tri_minima\bin\Debug\tri_minima.exe.config
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\tri_minima\bin\Debug\tri_minima.exe
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\tri_minima\bin\Debug\tri_minima.pdb
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\tri_minima\obj\Debug\tri_minima.csprojAssemblyReference.cache
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\tri_minima\obj\Debug\tri_minima.csproj.CoreCompileInputs.cache
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\tri_minima\obj\Debug\tri_minima.exe
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\tri_minima\obj\Debug\tri_minima.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableau\tableaux\tri_minima\bin\Debug\tri_minima.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableau\tableaux\tri_minima\bin\Debug\tri_minima.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableau\tableaux\tri_minima\bin\Debug\tri_minima.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableau\tableaux\tri_minima\obj\Debug\tri_minima.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableau\tableaux\tri_minima\obj\Debug\tri_minima.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableau\tableaux\tri_minima\obj\Debug\tri_minima.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableau\tableaux\tri_minima\obj\Debug\tri_minima.pdb
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\tri_minima\bin\Debug\tri_minima.exe.config
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\tri_minima\bin\Debug\tri_minima.exe
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\tri_minima\bin\Debug\tri_minima.pdb
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\tri_minima\obj\Debug\tri_minima.csprojAssemblyReference.cache
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\tri_minima\obj\Debug\tri_minima.csproj.CoreCompileInputs.cache
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\tri_minima\obj\Debug\tri_minima.exe
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\tri_minima\obj\Debug\tri_minima.pdb

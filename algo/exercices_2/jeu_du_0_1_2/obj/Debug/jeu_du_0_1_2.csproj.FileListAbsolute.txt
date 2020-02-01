@@ -1,0 +1,14 @@
+C:\Users\Tib\Desktop\Nouveau dossier\tiberiu\exo abcd\exercices_2\jeu_du_0_1_2\bin\Debug\jeu_du_0_1_2.exe.config
+C:\Users\Tib\Desktop\Nouveau dossier\tiberiu\exo abcd\exercices_2\jeu_du_0_1_2\bin\Debug\jeu_du_0_1_2.exe
+C:\Users\Tib\Desktop\Nouveau dossier\tiberiu\exo abcd\exercices_2\jeu_du_0_1_2\bin\Debug\jeu_du_0_1_2.pdb
+C:\Users\Tib\Desktop\Nouveau dossier\tiberiu\exo abcd\exercices_2\jeu_du_0_1_2\obj\Debug\jeu_du_0_1_2.csprojAssemblyReference.cache
+C:\Users\Tib\Desktop\Nouveau dossier\tiberiu\exo abcd\exercices_2\jeu_du_0_1_2\obj\Debug\jeu_du_0_1_2.csproj.CoreCompileInputs.cache
+C:\Users\Tib\Desktop\Nouveau dossier\tiberiu\exo abcd\exercices_2\jeu_du_0_1_2\obj\Debug\jeu_du_0_1_2.exe
+C:\Users\Tib\Desktop\Nouveau dossier\tiberiu\exo abcd\exercices_2\jeu_du_0_1_2\obj\Debug\jeu_du_0_1_2.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\jeu_du_0_1_2\bin\Debug\jeu_du_0_1_2.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\jeu_du_0_1_2\obj\Debug\jeu_du_0_1_2.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\jeu_du_0_1_2\obj\Debug\jeu_du_0_1_2.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\jeu_du_0_1_2\bin\Debug\jeu_du_0_1_2.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\jeu_du_0_1_2\bin\Debug\jeu_du_0_1_2.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\jeu_du_0_1_2\obj\Debug\jeu_du_0_1_2.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\jeu_du_0_1_2\obj\Debug\jeu_du_0_1_2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\tableaux\bin\Debug\tableaux.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\tableaux\bin\Debug\tableaux.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\tableaux\bin\Debug\tableaux.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\tableaux\obj\Debug\tableaux.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\tableaux\obj\Debug\tableaux.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\tableaux\obj\Debug\tableaux.csproj.CoreCompileInputs.cache

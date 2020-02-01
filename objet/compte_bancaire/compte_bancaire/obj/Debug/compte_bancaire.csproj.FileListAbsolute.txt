@@ -1,0 +1,21 @@
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\compte_bancaire\compte_bancaire\bin\Debug\compte_bancaire.exe.config
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\compte_bancaire\compte_bancaire\bin\Debug\compte_bancaire.exe
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\compte_bancaire\compte_bancaire\bin\Debug\compte_bancaire.pdb
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\compte_bancaire\compte_bancaire\obj\Debug\compte_bancaire.csprojAssemblyReference.cache
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\compte_bancaire\compte_bancaire\obj\Debug\compte_bancaire.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\compte_bancaire\compte_bancaire\obj\Debug\compte_bancaire.exe
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\compte_bancaire\compte_bancaire\obj\Debug\compte_bancaire.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\compte_bancaire\compte_bancaire\bin\Debug\compte_bancaire.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\compte_bancaire\compte_bancaire\bin\Debug\compte_bancaire.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\compte_bancaire\compte_bancaire\bin\Debug\compte_bancaire.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\compte_bancaire\compte_bancaire\obj\Debug\compte_bancaire.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\compte_bancaire\compte_bancaire\obj\Debug\compte_bancaire.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\compte_bancaire\compte_bancaire\obj\Debug\compte_bancaire.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\compte_bancaire\compte_bancaire\obj\Debug\compte_bancaire.pdb
+C:\Users\Patrascu\Desktop\dwwm\tib exo C#\tiberiu\tiberiu-abc.dev\objet\compte_bancaire\compte_bancaire\bin\Debug\compte_bancaire.exe.config
+C:\Users\Patrascu\Desktop\dwwm\tib exo C#\tiberiu\tiberiu-abc.dev\objet\compte_bancaire\compte_bancaire\bin\Debug\compte_bancaire.exe
+C:\Users\Patrascu\Desktop\dwwm\tib exo C#\tiberiu\tiberiu-abc.dev\objet\compte_bancaire\compte_bancaire\bin\Debug\compte_bancaire.pdb
+C:\Users\Patrascu\Desktop\dwwm\tib exo C#\tiberiu\tiberiu-abc.dev\objet\compte_bancaire\compte_bancaire\obj\Debug\compte_bancaire.csprojAssemblyReference.cache
+C:\Users\Patrascu\Desktop\dwwm\tib exo C#\tiberiu\tiberiu-abc.dev\objet\compte_bancaire\compte_bancaire\obj\Debug\compte_bancaire.csproj.CoreCompileInputs.cache
+C:\Users\Patrascu\Desktop\dwwm\tib exo C#\tiberiu\tiberiu-abc.dev\objet\compte_bancaire\compte_bancaire\obj\Debug\compte_bancaire.exe
+C:\Users\Patrascu\Desktop\dwwm\tib exo C#\tiberiu\tiberiu-abc.dev\objet\compte_bancaire\compte_bancaire\obj\Debug\compte_bancaire.pdb

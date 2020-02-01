@@ -1,0 +1,7 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\entrepots\entrepots\bin\Debug\entrepots.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\entrepots\entrepots\bin\Debug\entrepots.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\entrepots\entrepots\bin\Debug\entrepots.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\entrepots\entrepots\obj\Debug\entrepots.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\entrepots\entrepots\obj\Debug\entrepots.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\entrepots\entrepots\obj\Debug\entrepots.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\entrepots\entrepots\obj\Debug\entrepots.pdb

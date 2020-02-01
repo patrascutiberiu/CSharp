@@ -1,0 +1,14 @@
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\tableaux_2_dim\tableaux_2_dim\bin\Debug\tableaux_2_dim.exe.config
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\tableaux_2_dim\tableaux_2_dim\bin\Debug\tableaux_2_dim.exe
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\tableaux_2_dim\tableaux_2_dim\bin\Debug\tableaux_2_dim.pdb
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\tableaux_2_dim\tableaux_2_dim\obj\Debug\tableaux_2_dim.csprojAssemblyReference.cache
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\tableaux_2_dim\tableaux_2_dim\obj\Debug\tableaux_2_dim.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\tableaux_2_dim\tableaux_2_dim\obj\Debug\tableaux_2_dim.exe
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\tableaux_2_dim\tableaux_2_dim\obj\Debug\tableaux_2_dim.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux_2_dim\tableaux_2_dim\bin\Debug\tableaux_2_dim.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux_2_dim\tableaux_2_dim\bin\Debug\tableaux_2_dim.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux_2_dim\tableaux_2_dim\bin\Debug\tableaux_2_dim.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux_2_dim\tableaux_2_dim\obj\Debug\tableaux_2_dim.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux_2_dim\tableaux_2_dim\obj\Debug\tableaux_2_dim.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux_2_dim\tableaux_2_dim\obj\Debug\tableaux_2_dim.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux_2_dim\tableaux_2_dim\obj\Debug\tableaux_2_dim.pdb

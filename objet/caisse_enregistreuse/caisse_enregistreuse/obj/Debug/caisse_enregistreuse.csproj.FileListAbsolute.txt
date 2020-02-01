@@ -1,0 +1,7 @@
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\caisse_enregistreuse\caisse_enregistreuse\bin\Debug\caisse_enregistreuse.exe.config
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\caisse_enregistreuse\caisse_enregistreuse\bin\Debug\caisse_enregistreuse.exe
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\caisse_enregistreuse\caisse_enregistreuse\bin\Debug\caisse_enregistreuse.pdb
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\caisse_enregistreuse\caisse_enregistreuse\obj\Debug\caisse_enregistreuse.csprojAssemblyReference.cache
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\caisse_enregistreuse\caisse_enregistreuse\obj\Debug\caisse_enregistreuse.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\caisse_enregistreuse\caisse_enregistreuse\obj\Debug\caisse_enregistreuse.exe
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\caisse_enregistreuse\caisse_enregistreuse\obj\Debug\caisse_enregistreuse.pdb

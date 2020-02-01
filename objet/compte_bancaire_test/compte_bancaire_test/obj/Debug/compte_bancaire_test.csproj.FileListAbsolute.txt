@@ -1,0 +1,14 @@
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\compte_bancaire\compte_bancaire_test\bin\Debug\compte_bancaire_test.exe.config
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\compte_bancaire\compte_bancaire_test\bin\Debug\compte_bancaire_test.exe
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\compte_bancaire\compte_bancaire_test\bin\Debug\compte_bancaire_test.pdb
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\compte_bancaire\compte_bancaire_test\obj\Debug\compte_bancaire_test.csprojAssemblyReference.cache
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\compte_bancaire\compte_bancaire_test\obj\Debug\compte_bancaire_test.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\compte_bancaire\compte_bancaire_test\obj\Debug\compte_bancaire_test.exe
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\compte_bancaire\compte_bancaire_test\obj\Debug\compte_bancaire_test.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\compte_bancaire_test\compte_bancaire_test\bin\Debug\compte_bancaire_test.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\compte_bancaire_test\compte_bancaire_test\bin\Debug\compte_bancaire_test.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\compte_bancaire_test\compte_bancaire_test\bin\Debug\compte_bancaire_test.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\compte_bancaire_test\compte_bancaire_test\obj\Debug\compte_bancaire_test.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\compte_bancaire_test\compte_bancaire_test\obj\Debug\compte_bancaire_test.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\compte_bancaire_test\compte_bancaire_test\obj\Debug\compte_bancaire_test.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\compte_bancaire_test\compte_bancaire_test\obj\Debug\compte_bancaire_test.pdb

@@ -1,0 +1,14 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\classe_point\classe_point\bin\Debug\classe_point.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\classe_point\classe_point\bin\Debug\classe_point.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\classe_point\classe_point\bin\Debug\classe_point.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\classe_point\classe_point\obj\Debug\classe_point.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\classe_point\classe_point\obj\Debug\classe_point.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\classe_point\classe_point\obj\Debug\classe_point.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\classe_point\classe_point\obj\Debug\classe_point.pdb
+C:\Users\Patrascu\Desktop\dwwm\tib exo C#\tiberiu\tiberiu-abc.dev\objet\classe_point\classe_point\bin\Debug\classe_point.exe.config
+C:\Users\Patrascu\Desktop\dwwm\tib exo C#\tiberiu\tiberiu-abc.dev\objet\classe_point\classe_point\bin\Debug\classe_point.exe
+C:\Users\Patrascu\Desktop\dwwm\tib exo C#\tiberiu\tiberiu-abc.dev\objet\classe_point\classe_point\bin\Debug\classe_point.pdb
+C:\Users\Patrascu\Desktop\dwwm\tib exo C#\tiberiu\tiberiu-abc.dev\objet\classe_point\classe_point\obj\Debug\classe_point.csprojAssemblyReference.cache
+C:\Users\Patrascu\Desktop\dwwm\tib exo C#\tiberiu\tiberiu-abc.dev\objet\classe_point\classe_point\obj\Debug\classe_point.csproj.CoreCompileInputs.cache
+C:\Users\Patrascu\Desktop\dwwm\tib exo C#\tiberiu\tiberiu-abc.dev\objet\classe_point\classe_point\obj\Debug\classe_point.exe
+C:\Users\Patrascu\Desktop\dwwm\tib exo C#\tiberiu\tiberiu-abc.dev\objet\classe_point\classe_point\obj\Debug\classe_point.pdb

@@ -1,0 +1,12 @@
+C:\Users\Patrascu\source\repos\SolutionBanqueTableaux\ClassLibraryBanque\bin\Debug\ClassLibraryBanque.dll
+C:\Users\Patrascu\source\repos\SolutionBanqueTableaux\ClassLibraryBanque\bin\Debug\ClassLibraryBanque.pdb
+C:\Users\Patrascu\source\repos\SolutionBanqueTableaux\ClassLibraryBanque\obj\Debug\ClassLibraryBanque.csprojAssemblyReference.cache
+C:\Users\Patrascu\source\repos\SolutionBanqueTableaux\ClassLibraryBanque\obj\Debug\ClassLibraryBanque.csproj.CoreCompileInputs.cache
+C:\Users\Patrascu\source\repos\SolutionBanqueTableaux\ClassLibraryBanque\obj\Debug\ClassLibraryBanque.dll
+C:\Users\Patrascu\source\repos\SolutionBanqueTableaux\ClassLibraryBanque\obj\Debug\ClassLibraryBanque.pdb
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionBanqueTableaux\ClassLibraryBanque\bin\Debug\ClassLibraryBanque.dll
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionBanqueTableaux\ClassLibraryBanque\bin\Debug\ClassLibraryBanque.pdb
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionBanqueTableaux\ClassLibraryBanque\obj\Debug\ClassLibraryBanque.csprojAssemblyReference.cache
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionBanqueTableaux\ClassLibraryBanque\obj\Debug\ClassLibraryBanque.csproj.CoreCompileInputs.cache
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionBanqueTableaux\ClassLibraryBanque\obj\Debug\ClassLibraryBanque.dll
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionBanqueTableaux\ClassLibraryBanque\obj\Debug\ClassLibraryBanque.pdb

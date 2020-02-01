@@ -1,0 +1,7 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\recherche_diviseur\bin\Debug\recherche_diviseur.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\recherche_diviseur\bin\Debug\recherche_diviseur.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\recherche_diviseur\bin\Debug\recherche_diviseur.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\recherche_diviseur\obj\Debug\recherche_diviseur.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\recherche_diviseur\obj\Debug\recherche_diviseur.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\recherche_diviseur\obj\Debug\recherche_diviseur.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\recherche_diviseur\obj\Debug\recherche_diviseur.pdb

@@ -1,0 +1,5 @@
+C:\exo_ABCDEV\exo_algoV1\Filiere_Informatique\bin\Debug\Filiere_Informatique.exe.config
+C:\exo_ABCDEV\exo_algoV1\Filiere_Informatique\bin\Debug\Filiere_Informatique.exe
+C:\exo_ABCDEV\exo_algoV1\Filiere_Informatique\bin\Debug\Filiere_Informatique.pdb
+C:\exo_ABCDEV\exo_algoV1\Filiere_Informatique\obj\Debug\Filiere_Informatique.exe
+C:\exo_ABCDEV\exo_algoV1\Filiere_Informatique\obj\Debug\Filiere_Informatique.pdb

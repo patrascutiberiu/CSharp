@@ -1,0 +1,5 @@
+C:\exo_ABCDEV\exo_algoV1\ExoTab2Dim\bin\Debug\ExoTab2Dim.exe.config
+C:\exo_ABCDEV\exo_algoV1\ExoTab2Dim\bin\Debug\ExoTab2Dim.exe
+C:\exo_ABCDEV\exo_algoV1\ExoTab2Dim\bin\Debug\ExoTab2Dim.pdb
+C:\exo_ABCDEV\exo_algoV1\ExoTab2Dim\obj\Debug\ExoTab2Dim.exe
+C:\exo_ABCDEV\exo_algoV1\ExoTab2Dim\obj\Debug\ExoTab2Dim.pdb

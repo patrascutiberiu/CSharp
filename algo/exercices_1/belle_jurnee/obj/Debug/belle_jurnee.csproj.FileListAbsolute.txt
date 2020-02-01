@@ -1,0 +1,6 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\belle_jurnee\bin\Debug\belle_jurnee.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\belle_jurnee\bin\Debug\belle_jurnee.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\belle_jurnee\bin\Debug\belle_jurnee.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\belle_jurnee\obj\Debug\belle_jurnee.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\belle_jurnee\obj\Debug\belle_jurnee.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\belle_jurnee\obj\Debug\belle_jurnee.pdb

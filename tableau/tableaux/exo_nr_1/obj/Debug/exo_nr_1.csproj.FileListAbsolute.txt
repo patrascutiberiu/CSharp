@@ -1,0 +1,28 @@
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_1\bin\Debug\exo_nr_1.exe.config
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_1\bin\Debug\exo_nr_1.exe
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_1\bin\Debug\exo_nr_1.pdb
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_1\obj\Debug\exo_nr_1.csprojAssemblyReference.cache
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_1\obj\Debug\exo_nr_1.csproj.CoreCompileInputs.cache
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_1\obj\Debug\exo_nr_1.exe
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_1\obj\Debug\exo_nr_1.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableau\tableaux\exo_nr_1\bin\Debug\exo_nr_1.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableau\tableaux\exo_nr_1\bin\Debug\exo_nr_1.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableau\tableaux\exo_nr_1\bin\Debug\exo_nr_1.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableau\tableaux\exo_nr_1\obj\Debug\exo_nr_1.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableau\tableaux\exo_nr_1\obj\Debug\exo_nr_1.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableau\tableaux\exo_nr_1\obj\Debug\exo_nr_1.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableau\tableaux\exo_nr_1\obj\Debug\exo_nr_1.pdb
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\exo_nr_1\bin\Debug\exo_nr_1.exe.config
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\exo_nr_1\bin\Debug\exo_nr_1.exe
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\exo_nr_1\bin\Debug\exo_nr_1.pdb
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\exo_nr_1\obj\Debug\exo_nr_1.csprojAssemblyReference.cache
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\exo_nr_1\obj\Debug\exo_nr_1.csproj.CoreCompileInputs.cache
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\exo_nr_1\obj\Debug\exo_nr_1.exe
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\exo_nr_1\obj\Debug\exo_nr_1.pdb
+E:\tib exo C#\tiberiu-abc.dev_exo\tableau\tableaux\exo_nr_1\bin\Debug\exo_nr_1.exe.config
+E:\tib exo C#\tiberiu-abc.dev_exo\tableau\tableaux\exo_nr_1\bin\Debug\exo_nr_1.exe
+E:\tib exo C#\tiberiu-abc.dev_exo\tableau\tableaux\exo_nr_1\bin\Debug\exo_nr_1.pdb
+E:\tib exo C#\tiberiu-abc.dev_exo\tableau\tableaux\exo_nr_1\obj\Debug\exo_nr_1.csprojAssemblyReference.cache
+E:\tib exo C#\tiberiu-abc.dev_exo\tableau\tableaux\exo_nr_1\obj\Debug\exo_nr_1.csproj.CoreCompileInputs.cache
+E:\tib exo C#\tiberiu-abc.dev_exo\tableau\tableaux\exo_nr_1\obj\Debug\exo_nr_1.exe
+E:\tib exo C#\tiberiu-abc.dev_exo\tableau\tableaux\exo_nr_1\obj\Debug\exo_nr_1.pdb

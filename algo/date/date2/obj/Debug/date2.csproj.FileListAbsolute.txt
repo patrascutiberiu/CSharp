@@ -1,0 +1,7 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\date\date2\bin\Debug\date2.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\date\date2\bin\Debug\date2.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\date\date2\bin\Debug\date2.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\date\date2\obj\Debug\date2.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\date\date2\obj\Debug\date2.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\date\date2\obj\Debug\date2.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\date\date2\obj\Debug\date2.pdb

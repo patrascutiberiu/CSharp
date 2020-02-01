@@ -1,0 +1,6 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\barnabe\bin\Debug\barnabe.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\barnabe\bin\Debug\barnabe.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\barnabe\bin\Debug\barnabe.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\barnabe\obj\Debug\barnabe.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\barnabe\obj\Debug\barnabe.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\barnabe\obj\Debug\barnabe.pdb

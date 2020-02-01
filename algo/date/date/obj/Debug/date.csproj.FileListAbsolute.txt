@@ -1,0 +1,21 @@
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\date\date\bin\Debug\date.exe.config
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\date\date\bin\Debug\date.exe
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\date\date\bin\Debug\date.pdb
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\date\date\obj\Debug\date.csprojAssemblyReference.cache
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\date\date\obj\Debug\date.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\date\date\obj\Debug\date.exe
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\date\date\obj\Debug\date.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\date\date\bin\Debug\date.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\date\date\bin\Debug\date.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\date\date\bin\Debug\date.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\date\date\obj\Debug\date.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\date\date\obj\Debug\date.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\date\date\obj\Debug\date.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\date\date\obj\Debug\date.pdb
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\date\date\bin\Debug\date.exe.config
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\date\date\bin\Debug\date.exe
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\date\date\bin\Debug\date.pdb
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\date\date\obj\Debug\date.csprojAssemblyReference.cache
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\date\date\obj\Debug\date.csproj.CoreCompileInputs.cache
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\date\date\obj\Debug\date.exe
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\date\date\obj\Debug\date.pdb

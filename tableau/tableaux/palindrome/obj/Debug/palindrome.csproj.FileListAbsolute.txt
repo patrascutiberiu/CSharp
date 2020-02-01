@@ -1,0 +1,7 @@
+E:\tib exo C#\tiberiu-abc.dev_exo\tableau\tableaux\palindrome\bin\Debug\palindrome.exe.config
+E:\tib exo C#\tiberiu-abc.dev_exo\tableau\tableaux\palindrome\bin\Debug\palindrome.exe
+E:\tib exo C#\tiberiu-abc.dev_exo\tableau\tableaux\palindrome\bin\Debug\palindrome.pdb
+E:\tib exo C#\tiberiu-abc.dev_exo\tableau\tableaux\palindrome\obj\Debug\palindrome.csprojAssemblyReference.cache
+E:\tib exo C#\tiberiu-abc.dev_exo\tableau\tableaux\palindrome\obj\Debug\palindrome.csproj.CoreCompileInputs.cache
+E:\tib exo C#\tiberiu-abc.dev_exo\tableau\tableaux\palindrome\obj\Debug\palindrome.exe
+E:\tib exo C#\tiberiu-abc.dev_exo\tableau\tableaux\palindrome\obj\Debug\palindrome.pdb

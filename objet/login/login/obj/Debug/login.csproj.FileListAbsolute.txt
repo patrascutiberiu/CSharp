@@ -1,0 +1,21 @@
+C:\Users\Tib\source\repos\login\login\obj\Debug\login.csprojAssemblyReference.cache
+C:\Users\Tib\source\repos\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\Tib\source\repos\login\login\bin\Debug\login.exe.config
+C:\Users\Tib\source\repos\login\login\bin\Debug\login.exe
+C:\Users\Tib\source\repos\login\login\bin\Debug\login.pdb
+C:\Users\Tib\source\repos\login\login\obj\Debug\login.exe
+C:\Users\Tib\source\repos\login\login\obj\Debug\login.pdb
+C:\Users\Tib\Desktop\tib exo\login\login\bin\Debug\login.exe.config
+C:\Users\Tib\Desktop\tib exo\login\login\bin\Debug\login.exe
+C:\Users\Tib\Desktop\tib exo\login\login\bin\Debug\login.pdb
+C:\Users\Tib\Desktop\tib exo\login\login\obj\Debug\login.csprojAssemblyReference.cache
+C:\Users\Tib\Desktop\tib exo\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\Tib\Desktop\tib exo\login\login\obj\Debug\login.exe
+C:\Users\Tib\Desktop\tib exo\login\login\obj\Debug\login.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\login\login\bin\Debug\login.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\login\login\bin\Debug\login.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\login\login\bin\Debug\login.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\login\login\obj\Debug\login.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\login\login\obj\Debug\login.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\login\login\obj\Debug\login.pdb

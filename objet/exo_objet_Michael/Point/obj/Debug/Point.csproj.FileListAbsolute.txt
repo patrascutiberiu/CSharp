@@ -1,0 +1,7 @@
+C:\Users\CRM\source\repos\exo_objet\Point\bin\Debug\Point.exe.config
+C:\Users\CRM\source\repos\exo_objet\Point\bin\Debug\Point.exe
+C:\Users\CRM\source\repos\exo_objet\Point\bin\Debug\Point.pdb
+C:\Users\CRM\source\repos\exo_objet\Point\obj\Debug\Point.csprojAssemblyReference.cache
+C:\Users\CRM\source\repos\exo_objet\Point\obj\Debug\Point.csproj.CoreCompileInputs.cache
+C:\Users\CRM\source\repos\exo_objet\Point\obj\Debug\Point.exe
+C:\Users\CRM\source\repos\exo_objet\Point\obj\Debug\Point.pdb

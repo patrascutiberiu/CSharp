@@ -1,0 +1,27 @@
+C:\Users\Tib\source\repos\login\login_tableau\bin\Debug\login_tableau.exe.config
+C:\Users\Tib\source\repos\login\login_tableau\bin\Debug\login_tableau.exe
+C:\Users\Tib\source\repos\login\login_tableau\bin\Debug\login_tableau.pdb
+C:\Users\Tib\source\repos\login\login_tableau\obj\Debug\login_tableau.csproj.CoreCompileInputs.cache
+C:\Users\Tib\source\repos\login\login_tableau\obj\Debug\login_tableau.exe
+C:\Users\Tib\source\repos\login\login_tableau\obj\Debug\login_tableau.pdb
+C:\Users\Tib\Desktop\tib exo\login\login_tableau\bin\Debug\login_tableau.exe.config
+C:\Users\Tib\Desktop\tib exo\login\login_tableau\bin\Debug\login_tableau.exe
+C:\Users\Tib\Desktop\tib exo\login\login_tableau\bin\Debug\login_tableau.pdb
+C:\Users\Tib\Desktop\tib exo\login\login_tableau\obj\Debug\login_tableau.csprojAssemblyReference.cache
+C:\Users\Tib\Desktop\tib exo\login\login_tableau\obj\Debug\login_tableau.csproj.CoreCompileInputs.cache
+C:\Users\Tib\Desktop\tib exo\login\login_tableau\obj\Debug\login_tableau.exe
+C:\Users\Tib\Desktop\tib exo\login\login_tableau\obj\Debug\login_tableau.pdb
+C:\Users\CRM\Desktop\login\login_tableau\bin\Debug\login_tableau.exe.config
+C:\Users\CRM\Desktop\login\login_tableau\bin\Debug\login_tableau.exe
+C:\Users\CRM\Desktop\login\login_tableau\bin\Debug\login_tableau.pdb
+C:\Users\CRM\Desktop\login\login_tableau\obj\Debug\login_tableau.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\login\login_tableau\obj\Debug\login_tableau.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\login\login_tableau\obj\Debug\login_tableau.exe
+C:\Users\CRM\Desktop\login\login_tableau\obj\Debug\login_tableau.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\login\login_tableau\bin\Debug\login_tableau.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\login\login_tableau\bin\Debug\login_tableau.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\login\login_tableau\bin\Debug\login_tableau.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\login\login_tableau\obj\Debug\login_tableau.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\login\login_tableau\obj\Debug\login_tableau.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\login\login_tableau\obj\Debug\login_tableau.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\login\login_tableau\obj\Debug\login_tableau.pdb

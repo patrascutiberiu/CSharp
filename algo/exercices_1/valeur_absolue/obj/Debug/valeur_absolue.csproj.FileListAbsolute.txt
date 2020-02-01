@@ -1,0 +1,13 @@
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\valeur_absolue\bin\Debug\valeur_absolue.exe.config
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\valeur_absolue\bin\Debug\valeur_absolue.exe
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\valeur_absolue\bin\Debug\valeur_absolue.pdb
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\valeur_absolue\obj\Debug\valeur_absolue.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\valeur_absolue\obj\Debug\valeur_absolue.exe
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\valeur_absolue\obj\Debug\valeur_absolue.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\valeur_absolue\bin\Debug\valeur_absolue.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\valeur_absolue\bin\Debug\valeur_absolue.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\valeur_absolue\bin\Debug\valeur_absolue.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\valeur_absolue\obj\Debug\valeur_absolue.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\valeur_absolue\obj\Debug\valeur_absolue.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\valeur_absolue\obj\Debug\valeur_absolue.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\valeur_absolue\obj\Debug\valeur_absolue.pdb

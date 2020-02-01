@@ -1,0 +1,7 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\login\login_liste\bin\Debug\login_liste.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\login\login_liste\bin\Debug\login_liste.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\login\login_liste\bin\Debug\login_liste.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\login\login_liste\obj\Debug\login_liste.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\login\login_liste\obj\Debug\login_liste.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\login\login_liste\obj\Debug\login_liste.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\login\login_liste\obj\Debug\login_liste.pdb

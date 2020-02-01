@@ -1,0 +1,6 @@
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\recherche_diviseur\bin\Debug\recherche_diviseur.exe.config
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\recherche_diviseur\bin\Debug\recherche_diviseur.exe
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\recherche_diviseur\bin\Debug\recherche_diviseur.pdb
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\recherche_diviseur\obj\Debug\recherche_diviseur.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\recherche_diviseur\obj\Debug\recherche_diviseur.exe
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\recherche_diviseur\obj\Debug\recherche_diviseur.pdb

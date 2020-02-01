@@ -1,0 +1,5 @@
+C:\exo_ABCDEV\exo_algoV1\nbcaracteres\bin\Debug\nbcaracteres.exe.config
+C:\exo_ABCDEV\exo_algoV1\nbcaracteres\bin\Debug\nbcaracteres.exe
+C:\exo_ABCDEV\exo_algoV1\nbcaracteres\bin\Debug\nbcaracteres.pdb
+C:\exo_ABCDEV\exo_algoV1\nbcaracteres\obj\Debug\nbcaracteres.exe
+C:\exo_ABCDEV\exo_algoV1\nbcaracteres\obj\Debug\nbcaracteres.pdb

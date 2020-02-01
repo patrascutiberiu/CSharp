@@ -1,0 +1,14 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\recherche_diviseur\bin\Release\recherche_diviseur.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\recherche_diviseur\bin\Release\recherche_diviseur.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\recherche_diviseur\bin\Release\recherche_diviseur.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\recherche_diviseur\obj\Release\recherche_diviseur.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\recherche_diviseur\obj\Release\recherche_diviseur.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\recherche_diviseur\obj\Release\recherche_diviseur.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\recherche_diviseur\obj\Release\recherche_diviseur.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_2\recherche_diviseur\bin\Release\recherche_diviseur.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_2\recherche_diviseur\bin\Release\recherche_diviseur.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_2\recherche_diviseur\bin\Release\recherche_diviseur.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_2\recherche_diviseur\obj\Release\recherche_diviseur.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_2\recherche_diviseur\obj\Release\recherche_diviseur.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_2\recherche_diviseur\obj\Release\recherche_diviseur.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_2\recherche_diviseur\obj\Release\recherche_diviseur.pdb

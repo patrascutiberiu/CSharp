@@ -1,0 +1,7 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\2_nombre_a_b\bin\Debug\2_nombre_a_b.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\2_nombre_a_b\bin\Debug\2_nombre_a_b.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\2_nombre_a_b\bin\Debug\2_nombre_a_b.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\2_nombre_a_b\obj\Debug\2_nombre_a_b.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\2_nombre_a_b\obj\Debug\2_nombre_a_b.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\2_nombre_a_b\obj\Debug\2_nombre_a_b.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\2_nombre_a_b\obj\Debug\2_nombre_a_b.pdb

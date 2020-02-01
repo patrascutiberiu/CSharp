@@ -1,0 +1,14 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\barnabe\bin\Release\barnabe.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\barnabe\bin\Release\barnabe.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\barnabe\bin\Release\barnabe.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\barnabe\obj\Release\barnabe.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\barnabe\obj\Release\barnabe.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\barnabe\obj\Release\barnabe.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\barnabe\obj\Release\barnabe.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_2\barnabe\bin\Release\barnabe.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_2\barnabe\bin\Release\barnabe.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_2\barnabe\bin\Release\barnabe.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_2\barnabe\obj\Release\barnabe.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_2\barnabe\obj\Release\barnabe.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_2\barnabe\obj\Release\barnabe.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_2\barnabe\obj\Release\barnabe.pdb

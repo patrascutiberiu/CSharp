@@ -1,0 +1,5 @@
+C:\exo_ABCDEV\exo_algoV1\tableau1\bin\Debug\tableau1.exe.config
+C:\exo_ABCDEV\exo_algoV1\tableau1\bin\Debug\tableau1.exe
+C:\exo_ABCDEV\exo_algoV1\tableau1\bin\Debug\tableau1.pdb
+C:\exo_ABCDEV\exo_algoV1\tableau1\obj\Debug\tableau1.exe
+C:\exo_ABCDEV\exo_algoV1\tableau1\obj\Debug\tableau1.pdb

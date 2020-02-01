@@ -1,0 +1,14 @@
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\jeu_de_lemprunt\jeu_de_lemprunt\bin\Debug\jeu_de_lemprunt.exe.config
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\jeu_de_lemprunt\jeu_de_lemprunt\bin\Debug\jeu_de_lemprunt.exe
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\jeu_de_lemprunt\jeu_de_lemprunt\bin\Debug\jeu_de_lemprunt.pdb
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\jeu_de_lemprunt\jeu_de_lemprunt\obj\Debug\jeu_de_lemprunt.csprojAssemblyReference.cache
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\jeu_de_lemprunt\jeu_de_lemprunt\obj\Debug\jeu_de_lemprunt.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\jeu_de_lemprunt\jeu_de_lemprunt\obj\Debug\jeu_de_lemprunt.exe
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\jeu_de_lemprunt\jeu_de_lemprunt\obj\Debug\jeu_de_lemprunt.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\jeu_de_lemprunt\jeu_de_lemprunt\bin\Debug\jeu_de_lemprunt.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\jeu_de_lemprunt\jeu_de_lemprunt\bin\Debug\jeu_de_lemprunt.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\jeu_de_lemprunt\jeu_de_lemprunt\bin\Debug\jeu_de_lemprunt.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\jeu_de_lemprunt\jeu_de_lemprunt\obj\Debug\jeu_de_lemprunt.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\jeu_de_lemprunt\jeu_de_lemprunt\obj\Debug\jeu_de_lemprunt.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\jeu_de_lemprunt\jeu_de_lemprunt\obj\Debug\jeu_de_lemprunt.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\jeu_de_lemprunt\jeu_de_lemprunt\obj\Debug\jeu_de_lemprunt.pdb

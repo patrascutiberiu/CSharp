@@ -1,0 +1,14 @@
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\compte_liste\compte_liste\bin\Debug\compte_liste.exe.config
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\compte_liste\compte_liste\bin\Debug\compte_liste.exe
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\compte_liste\compte_liste\bin\Debug\compte_liste.pdb
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\compte_liste\compte_liste\obj\Debug\compte_liste.csprojAssemblyReference.cache
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\compte_liste\compte_liste\obj\Debug\compte_liste.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\compte_liste\compte_liste\obj\Debug\compte_liste.exe
+C:\Users\CRM\Documents\Visual Studio 2017\Projects\compte_liste\compte_liste\obj\Debug\compte_liste.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\compte_liste\compte_liste\bin\Debug\compte_liste.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\compte_liste\compte_liste\bin\Debug\compte_liste.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\compte_liste\compte_liste\bin\Debug\compte_liste.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\compte_liste\compte_liste\obj\Debug\compte_liste.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\compte_liste\compte_liste\obj\Debug\compte_liste.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\compte_liste\compte_liste\obj\Debug\compte_liste.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\objet\compte_liste\compte_liste\obj\Debug\compte_liste.pdb

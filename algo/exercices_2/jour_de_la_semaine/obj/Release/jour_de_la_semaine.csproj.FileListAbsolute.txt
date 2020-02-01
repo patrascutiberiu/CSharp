@@ -1,0 +1,7 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\jour_de_la_semaine\bin\Release\jour_de_la_semaine.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\jour_de_la_semaine\bin\Release\jour_de_la_semaine.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\jour_de_la_semaine\bin\Release\jour_de_la_semaine.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\jour_de_la_semaine\obj\Release\jour_de_la_semaine.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\jour_de_la_semaine\obj\Release\jour_de_la_semaine.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\jour_de_la_semaine\obj\Release\jour_de_la_semaine.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\jour_de_la_semaine\obj\Release\jour_de_la_semaine.pdb

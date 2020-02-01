@@ -1,0 +1,5 @@
+C:\exo_ABCDEV\exo_algoV1\jour_de_la_semaine\bin\Debug\jour_de_la_semaine.exe.config
+C:\exo_ABCDEV\exo_algoV1\jour_de_la_semaine\bin\Debug\jour_de_la_semaine.exe
+C:\exo_ABCDEV\exo_algoV1\jour_de_la_semaine\bin\Debug\jour_de_la_semaine.pdb
+C:\exo_ABCDEV\exo_algoV1\jour_de_la_semaine\obj\Debug\jour_de_la_semaine.exe
+C:\exo_ABCDEV\exo_algoV1\jour_de_la_semaine\obj\Debug\jour_de_la_semaine.pdb

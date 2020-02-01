@@ -1,0 +1,20 @@
+C:\Users\CRM\Desktop\tiberiu\exo abcd\exercices_2\exercices_2\bin\Debug\exercices_2.exe.config
+C:\Users\CRM\Desktop\tiberiu\exo abcd\exercices_2\exercices_2\bin\Debug\exercices_2.exe
+C:\Users\CRM\Desktop\tiberiu\exo abcd\exercices_2\exercices_2\bin\Debug\exercices_2.pdb
+C:\Users\CRM\Desktop\tiberiu\exo abcd\exercices_2\exercices_2\obj\Debug\nombre_de_jeaunes.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\exo abcd\exercices_2\exercices_2\obj\Debug\exercices_2.exe
+C:\Users\CRM\Desktop\tiberiu\exo abcd\exercices_2\exercices_2\obj\Debug\exercices_2.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\exercices_2\bin\Debug\exercices_2.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\exercices_2\obj\Debug\exercices_2.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\exercices_2\obj\Debug\exercices_2.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\exercices_2\bin\Debug\exercices_2.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\exercices_2\bin\Debug\exercices_2.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\exercices_2\obj\Debug\nombre_de_jeaunes.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\exercices_2\obj\Debug\nombre_de_jeaunes.csproj.CoreCompileInputs.cache
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\algo\exercices_2\exercices_2\bin\Debug\exercices_2.exe.config
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\algo\exercices_2\exercices_2\bin\Debug\exercices_2.exe
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\algo\exercices_2\exercices_2\bin\Debug\exercices_2.pdb
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\algo\exercices_2\exercices_2\obj\Debug\nombre_de_jeaunes.csprojAssemblyReference.cache
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\algo\exercices_2\exercices_2\obj\Debug\nombre_de_jeaunes.csproj.CoreCompileInputs.cache
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\algo\exercices_2\exercices_2\obj\Debug\exercices_2.exe
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\algo\exercices_2\exercices_2\obj\Debug\exercices_2.pdb

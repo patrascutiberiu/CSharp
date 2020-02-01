@@ -1,0 +1,7 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\entrepots\entrepot_preramplis\bin\Debug\entrepot_preramplis.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\entrepots\entrepot_preramplis\bin\Debug\entrepot_preramplis.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\entrepots\entrepot_preramplis\bin\Debug\entrepot_preramplis.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\entrepots\entrepot_preramplis\obj\Debug\entrepot_preramplis.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\entrepots\entrepot_preramplis\obj\Debug\entrepot_preramplis.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\entrepots\entrepot_preramplis\obj\Debug\entrepot_preramplis.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\entrepots\entrepot_preramplis\obj\Debug\entrepot_preramplis.pdb

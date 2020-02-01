@@ -1,0 +1,6 @@
+C:\exo_ABCDEV\exo_algoV1\login\bin\Debug\login.exe.config
+C:\exo_ABCDEV\exo_algoV1\login\bin\Debug\login.exe
+C:\exo_ABCDEV\exo_algoV1\login\bin\Debug\login.pdb
+C:\exo_ABCDEV\exo_algoV1\login\obj\Debug\login.csprojResolveAssemblyReference.cache
+C:\exo_ABCDEV\exo_algoV1\login\obj\Debug\login.exe
+C:\exo_ABCDEV\exo_algoV1\login\obj\Debug\login.pdb

@@ -1,0 +1,14 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\jeu_du_pendu\bin\Debug\jeu_du_pendu.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\jeu_du_pendu\bin\Debug\jeu_du_pendu.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\jeu_du_pendu\bin\Debug\jeu_du_pendu.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\jeu_du_pendu\obj\Debug\jeu_du_pendu.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\jeu_du_pendu\obj\Debug\jeu_du_pendu.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\jeu_du_pendu\obj\Debug\jeu_du_pendu.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\jeu_du_pendu\obj\Debug\jeu_du_pendu.pdb
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\jeu_du_pendu\obj\Debug\jeu_du_pendu.csprojAssemblyReference.cache
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\jeu_du_pendu\obj\Debug\jeu_du_pendu.csproj.CoreCompileInputs.cache
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\jeu_du_pendu\obj\Debug\jeu_du_pendu.exe
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\jeu_du_pendu\obj\Debug\jeu_du_pendu.pdb
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\jeu_du_pendu\bin\Debug\jeu_du_pendu.exe.config
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\jeu_du_pendu\bin\Debug\jeu_du_pendu.exe
+C:\Users\Patrascu\Desktop\tib exo C#\tiberiu\tiberiu-abc.dev\tableau\tableaux\jeu_du_pendu\bin\Debug\jeu_du_pendu.pdb

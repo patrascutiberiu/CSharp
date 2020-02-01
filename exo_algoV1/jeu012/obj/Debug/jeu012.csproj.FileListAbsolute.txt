@@ -1,0 +1,5 @@
+C:\exo_ABCDEV\exo_algoV1\jeu012\bin\Debug\jeu012.exe.config
+C:\exo_ABCDEV\exo_algoV1\jeu012\bin\Debug\jeu012.exe
+C:\exo_ABCDEV\exo_algoV1\jeu012\bin\Debug\jeu012.pdb
+C:\exo_ABCDEV\exo_algoV1\jeu012\obj\Debug\jeu012.exe
+C:\exo_ABCDEV\exo_algoV1\jeu012\obj\Debug\jeu012.pdb

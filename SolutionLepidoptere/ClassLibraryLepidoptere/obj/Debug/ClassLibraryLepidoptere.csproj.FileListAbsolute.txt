@@ -1,0 +1,23 @@
+C:\Users\Patrascu\source\repos\ClassLibraryLepidoptere\ClassLibraryLepidoptere\bin\Debug\ClassLibraryLepidoptere.dll
+C:\Users\Patrascu\source\repos\ClassLibraryLepidoptere\ClassLibraryLepidoptere\bin\Debug\ClassLibraryLepidoptere.pdb
+C:\Users\Patrascu\source\repos\ClassLibraryLepidoptere\ClassLibraryLepidoptere\obj\Debug\ClassLibraryLepidoptere.csproj.CoreCompileInputs.cache
+C:\Users\Patrascu\source\repos\ClassLibraryLepidoptere\ClassLibraryLepidoptere\obj\Debug\ClassLibraryLepidoptere.dll
+C:\Users\Patrascu\source\repos\ClassLibraryLepidoptere\ClassLibraryLepidoptere\obj\Debug\ClassLibraryLepidoptere.pdb
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionLepidoptere\ClassLibraryLepidoptere\bin\Debug\ClassLibraryLepidoptere.dll
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionLepidoptere\ClassLibraryLepidoptere\bin\Debug\ClassLibraryLepidoptere.pdb
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionLepidoptere\ClassLibraryLepidoptere\obj\Debug\ClassLibraryLepidoptere.csprojAssemblyReference.cache
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionLepidoptere\ClassLibraryLepidoptere\obj\Debug\ClassLibraryLepidoptere.csproj.CoreCompileInputs.cache
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionLepidoptere\ClassLibraryLepidoptere\obj\Debug\ClassLibraryLepidoptere.dll
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionLepidoptere\ClassLibraryLepidoptere\obj\Debug\ClassLibraryLepidoptere.pdb
+D:\c# exo\SolutionLepidoptere\ClassLibraryLepidoptere\bin\Debug\ClassLibraryLepidoptere.dll
+D:\c# exo\SolutionLepidoptere\ClassLibraryLepidoptere\bin\Debug\ClassLibraryLepidoptere.pdb
+D:\c# exo\SolutionLepidoptere\ClassLibraryLepidoptere\obj\Debug\ClassLibraryLepidoptere.csprojAssemblyReference.cache
+D:\c# exo\SolutionLepidoptere\ClassLibraryLepidoptere\obj\Debug\ClassLibraryLepidoptere.csproj.CoreCompileInputs.cache
+D:\c# exo\SolutionLepidoptere\ClassLibraryLepidoptere\obj\Debug\ClassLibraryLepidoptere.dll
+D:\c# exo\SolutionLepidoptere\ClassLibraryLepidoptere\obj\Debug\ClassLibraryLepidoptere.pdb
+C:\Users\Patrascu\Desktop\c# exo\SolutionLepidoptere\ClassLibraryLepidoptere\bin\Debug\ClassLibraryLepidoptere.dll
+C:\Users\Patrascu\Desktop\c# exo\SolutionLepidoptere\ClassLibraryLepidoptere\bin\Debug\ClassLibraryLepidoptere.pdb
+C:\Users\Patrascu\Desktop\c# exo\SolutionLepidoptere\ClassLibraryLepidoptere\obj\Debug\ClassLibraryLepidoptere.csprojAssemblyReference.cache
+C:\Users\Patrascu\Desktop\c# exo\SolutionLepidoptere\ClassLibraryLepidoptere\obj\Debug\ClassLibraryLepidoptere.csproj.CoreCompileInputs.cache
+C:\Users\Patrascu\Desktop\c# exo\SolutionLepidoptere\ClassLibraryLepidoptere\obj\Debug\ClassLibraryLepidoptere.dll
+C:\Users\Patrascu\Desktop\c# exo\SolutionLepidoptere\ClassLibraryLepidoptere\obj\Debug\ClassLibraryLepidoptere.pdb

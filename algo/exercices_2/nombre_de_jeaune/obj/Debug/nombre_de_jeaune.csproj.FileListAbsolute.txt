@@ -1,0 +1,5 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\nombre_de_jeaune\bin\Debug\nombre_de_jeaune.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\nombre_de_jeaune\bin\Debug\nombre_de_jeaune.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\nombre_de_jeaune\bin\Debug\nombre_de_jeaune.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\nombre_de_jeaune\obj\Debug\nombre_de_jeaune.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\nombre_de_jeaune\obj\Debug\nombre_de_jeaune.pdb

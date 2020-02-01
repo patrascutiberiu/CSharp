@@ -1,0 +1,5 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\aetb_croissant\jeu_de_la_furchete\bin\Debug\jeu_de_la_furchete.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\aetb_croissant\jeu_de_la_furchete\bin\Debug\jeu_de_la_furchete.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\aetb_croissant\jeu_de_la_furchete\bin\Debug\jeu_de_la_furchete.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\aetb_croissant\jeu_de_la_furchete\obj\Debug\jeu_de_la_furchete.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\aetb_croissant\jeu_de_la_furchete\obj\Debug\jeu_de_la_furchete.pdb

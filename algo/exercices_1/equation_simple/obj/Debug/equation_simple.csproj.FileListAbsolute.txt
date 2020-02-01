@@ -1,0 +1,5 @@
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\equation_simple\bin\Debug\equation_simple.exe.config
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\equation_simple\bin\Debug\equation_simple.exe
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\equation_simple\bin\Debug\equation_simple.pdb
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\equation_simple\obj\Debug\equation_simple.exe
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\equation_simple\obj\Debug\equation_simple.pdb

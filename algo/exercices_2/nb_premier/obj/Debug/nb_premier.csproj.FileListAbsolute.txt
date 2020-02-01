@@ -1,0 +1,5 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\nb_premier\bin\Debug\nb_premier.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\nb_premier\bin\Debug\nb_premier.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\nb_premier\bin\Debug\nb_premier.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\nb_premier\obj\Debug\nb_premier.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\nb_premier\obj\Debug\nb_premier.pdb

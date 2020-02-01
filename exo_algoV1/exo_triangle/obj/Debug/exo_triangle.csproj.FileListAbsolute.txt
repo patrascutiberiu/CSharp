@@ -1,0 +1,5 @@
+C:\exo_ABCDEV\exo_algoV1\exo_triangle\bin\Debug\exo_triangle.exe.config
+C:\exo_ABCDEV\exo_algoV1\exo_triangle\bin\Debug\exo_triangle.exe
+C:\exo_ABCDEV\exo_algoV1\exo_triangle\bin\Debug\exo_triangle.pdb
+C:\exo_ABCDEV\exo_algoV1\exo_triangle\obj\Debug\exo_triangle.exe
+C:\exo_ABCDEV\exo_algoV1\exo_triangle\obj\Debug\exo_triangle.pdb

@@ -1,0 +1,7 @@
+C:\Users\CRM\source\repos\exo_objet\CompteBanque\bin\Debug\CompteBanque.exe.config
+C:\Users\CRM\source\repos\exo_objet\CompteBanque\bin\Debug\CompteBanque.exe
+C:\Users\CRM\source\repos\exo_objet\CompteBanque\bin\Debug\CompteBanque.pdb
+C:\Users\CRM\source\repos\exo_objet\CompteBanque\obj\Debug\CompteBanque.csprojAssemblyReference.cache
+C:\Users\CRM\source\repos\exo_objet\CompteBanque\obj\Debug\CompteBanque.csproj.CoreCompileInputs.cache
+C:\Users\CRM\source\repos\exo_objet\CompteBanque\obj\Debug\CompteBanque.exe
+C:\Users\CRM\source\repos\exo_objet\CompteBanque\obj\Debug\CompteBanque.pdb

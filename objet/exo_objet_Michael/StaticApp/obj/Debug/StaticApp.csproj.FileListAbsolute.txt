@@ -1,0 +1,7 @@
+C:\Users\CRM\source\repos\exo_objet\StaticApp\bin\Debug\StaticApp.exe.config
+C:\Users\CRM\source\repos\exo_objet\StaticApp\bin\Debug\StaticApp.exe
+C:\Users\CRM\source\repos\exo_objet\StaticApp\bin\Debug\StaticApp.pdb
+C:\Users\CRM\source\repos\exo_objet\StaticApp\obj\Debug\StaticApp.csprojAssemblyReference.cache
+C:\Users\CRM\source\repos\exo_objet\StaticApp\obj\Debug\StaticApp.csproj.CoreCompileInputs.cache
+C:\Users\CRM\source\repos\exo_objet\StaticApp\obj\Debug\StaticApp.exe
+C:\Users\CRM\source\repos\exo_objet\StaticApp\obj\Debug\StaticApp.pdb

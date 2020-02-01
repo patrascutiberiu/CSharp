@@ -1,0 +1,6 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\interet\bin\Debug\interet.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\interet\bin\Debug\interet.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\interet\bin\Debug\interet.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\interet\obj\Debug\interet.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\interet\obj\Debug\interet.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\algo\exercices_1\interet\obj\Debug\interet.pdb

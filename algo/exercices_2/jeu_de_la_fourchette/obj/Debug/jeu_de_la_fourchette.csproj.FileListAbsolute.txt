@@ -1,0 +1,20 @@
+C:\Users\CRM\Desktop\tiberiu\exo abcd\exercices_2\jeu_de_la_fourchette\bin\Debug\jeu_de_la_fourchette.exe.config
+C:\Users\CRM\Desktop\tiberiu\exo abcd\exercices_2\jeu_de_la_fourchette\bin\Debug\jeu_de_la_fourchette.exe
+C:\Users\CRM\Desktop\tiberiu\exo abcd\exercices_2\jeu_de_la_fourchette\bin\Debug\jeu_de_la_fourchette.pdb
+C:\Users\CRM\Desktop\tiberiu\exo abcd\exercices_2\jeu_de_la_fourchette\obj\Debug\jeu_de_la_fourchette.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\exo abcd\exercices_2\jeu_de_la_fourchette\obj\Debug\jeu_de_la_fourchette.exe
+C:\Users\CRM\Desktop\tiberiu\exo abcd\exercices_2\jeu_de_la_fourchette\obj\Debug\jeu_de_la_fourchette.pdb
+C:\Users\Tib\Desktop\Nouveau dossier\tiberiu\exo abcd\exercices_2\jeu_de_la_fourchette\bin\Debug\jeu_de_la_fourchette.exe.config
+C:\Users\Tib\Desktop\Nouveau dossier\tiberiu\exo abcd\exercices_2\jeu_de_la_fourchette\bin\Debug\jeu_de_la_fourchette.exe
+C:\Users\Tib\Desktop\Nouveau dossier\tiberiu\exo abcd\exercices_2\jeu_de_la_fourchette\bin\Debug\jeu_de_la_fourchette.pdb
+C:\Users\Tib\Desktop\Nouveau dossier\tiberiu\exo abcd\exercices_2\jeu_de_la_fourchette\obj\Debug\jeu_de_la_fourchette.csprojAssemblyReference.cache
+C:\Users\Tib\Desktop\Nouveau dossier\tiberiu\exo abcd\exercices_2\jeu_de_la_fourchette\obj\Debug\jeu_de_la_fourchette.csproj.CoreCompileInputs.cache
+C:\Users\Tib\Desktop\Nouveau dossier\tiberiu\exo abcd\exercices_2\jeu_de_la_fourchette\obj\Debug\jeu_de_la_fourchette.exe
+C:\Users\Tib\Desktop\Nouveau dossier\tiberiu\exo abcd\exercices_2\jeu_de_la_fourchette\obj\Debug\jeu_de_la_fourchette.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\jeu_de_la_fourchette\bin\Debug\jeu_de_la_fourchette.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\jeu_de_la_fourchette\obj\Debug\jeu_de_la_fourchette.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\jeu_de_la_fourchette\obj\Debug\jeu_de_la_fourchette.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\jeu_de_la_fourchette\bin\Debug\jeu_de_la_fourchette.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\jeu_de_la_fourchette\bin\Debug\jeu_de_la_fourchette.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\jeu_de_la_fourchette\obj\Debug\jeu_de_la_fourchette.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\jeu_de_la_fourchette\obj\Debug\jeu_de_la_fourchette.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\aetb_croissant\bin\Debug\aetb_croissant.exe.config
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\aetb_croissant\obj\Debug\aetb_croissant.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\aetb_croissant\bin\Debug\aetb_croissant.exe
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\aetb_croissant\bin\Debug\aetb_croissant.pdb
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\aetb_croissant\obj\Debug\aetb_croissant.exe
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\aetb_croissant\obj\Debug\aetb_croissant.pdb

@@ -1,0 +1,5 @@
+C:\exo_ABCDEV\exo_algoV1\jeux_pendu\bin\Debug\jeux_pendu.exe.config
+C:\exo_ABCDEV\exo_algoV1\jeux_pendu\bin\Debug\jeux_pendu.exe
+C:\exo_ABCDEV\exo_algoV1\jeux_pendu\bin\Debug\jeux_pendu.pdb
+C:\exo_ABCDEV\exo_algoV1\jeux_pendu\obj\Debug\jeux_pendu.exe
+C:\exo_ABCDEV\exo_algoV1\jeux_pendu\obj\Debug\jeux_pendu.pdb

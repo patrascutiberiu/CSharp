@@ -1,0 +1,6 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\exercices_2\bin\Release\exercices_2.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\exercices_2\bin\Release\exercices_2.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\exercices_2\bin\Release\exercices_2.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\exercices_2\obj\Release\nombre_de_jeaunes.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\exercices_2\obj\Release\exercices_2.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\exercices_2\obj\Release\exercices_2.pdb

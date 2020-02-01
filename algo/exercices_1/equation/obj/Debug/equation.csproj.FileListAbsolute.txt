@@ -1,0 +1,6 @@
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\equation\bin\Debug\equation.exe.config
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\equation\bin\Debug\equation.exe
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\equation\bin\Debug\equation.pdb
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\equation\obj\Debug\equation.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\equation\obj\Debug\equation.exe
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\equation\obj\Debug\equation.pdb

@@ -1,0 +1,6 @@
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionPoint\ClassLibraryPoint\bin\Debug\ClassLibraryPoint.dll
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionPoint\ClassLibraryPoint\bin\Debug\ClassLibraryPoint.pdb
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionPoint\ClassLibraryPoint\obj\Debug\ClassLibraryPoint.csprojAssemblyReference.cache
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionPoint\ClassLibraryPoint\obj\Debug\ClassLibraryPoint.csproj.CoreCompileInputs.cache
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionPoint\ClassLibraryPoint\obj\Debug\ClassLibraryPoint.dll
+C:\Users\Patrascu\Desktop\dwwm\java\java objet So\exo\c# exo\SolutionPoint\ClassLibraryPoint\obj\Debug\ClassLibraryPoint.pdb

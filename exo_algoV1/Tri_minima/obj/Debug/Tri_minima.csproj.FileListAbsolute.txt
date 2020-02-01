@@ -1,0 +1,5 @@
+C:\exo_ABCDEV\exo_algoV1\Tri_minima\bin\Debug\Tri_minima.exe.config
+C:\exo_ABCDEV\exo_algoV1\Tri_minima\bin\Debug\Tri_minima.exe
+C:\exo_ABCDEV\exo_algoV1\Tri_minima\bin\Debug\Tri_minima.pdb
+C:\exo_ABCDEV\exo_algoV1\Tri_minima\obj\Debug\Tri_minima.exe
+C:\exo_ABCDEV\exo_algoV1\Tri_minima\obj\Debug\Tri_minima.pdb

@@ -1,0 +1,5 @@
+C:\exo_ABCDEV\exo_algoV1\majorité1\bin\Debug\majorité1.exe.config
+C:\exo_ABCDEV\exo_algoV1\majorité1\bin\Debug\majorité1.exe
+C:\exo_ABCDEV\exo_algoV1\majorité1\bin\Debug\majorité1.pdb
+C:\exo_ABCDEV\exo_algoV1\majorité1\obj\Debug\majorité1.exe
+C:\exo_ABCDEV\exo_algoV1\majorité1\obj\Debug\majorité1.pdb

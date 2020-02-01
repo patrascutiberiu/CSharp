@@ -1,0 +1,14 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_3\bin\Debug\exo_nr_3.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_3\bin\Debug\exo_nr_3.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_3\bin\Debug\exo_nr_3.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_3\obj\Debug\exo_nr_3.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_3\obj\Debug\exo_nr_3.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_3\obj\Debug\exo_nr_3.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_3\obj\Debug\exo_nr_3.pdb
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_3\bin\Debug\exo_nr_3.exe.config
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_3\bin\Debug\exo_nr_3.exe
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_3\bin\Debug\exo_nr_3.pdb
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_3\obj\Debug\exo_nr_3.csprojAssemblyReference.cache
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_3\obj\Debug\exo_nr_3.csproj.CoreCompileInputs.cache
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_3\obj\Debug\exo_nr_3.exe
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\exo_nr_3\obj\Debug\exo_nr_3.pdb

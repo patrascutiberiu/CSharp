@@ -1,0 +1,14 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\tableaux\bin\Debug\tableaux.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\tableaux\bin\Debug\tableaux.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\tableaux\bin\Debug\tableaux.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\tableaux\obj\Debug\recherche_nombre.csprojAssemblyReference.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\tableaux\obj\Debug\recherche_nombre.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\tableaux\obj\Debug\tableaux.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\tableaux\tableaux\obj\Debug\tableaux.pdb
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\tableaux\bin\Debug\tableaux.exe.config
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\tableaux\bin\Debug\tableaux.exe
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\tableaux\bin\Debug\tableaux.pdb
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\tableaux\obj\Debug\recherche_nombre.csprojAssemblyReference.cache
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\tableaux\obj\Debug\recherche_nombre.csproj.CoreCompileInputs.cache
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\tableaux\obj\Debug\tableaux.exe
+C:\Users\Tib\Desktop\tib exo\tiberiu\tiberiu-abc.dev\tableaux\tableaux\obj\Debug\tableaux.pdb

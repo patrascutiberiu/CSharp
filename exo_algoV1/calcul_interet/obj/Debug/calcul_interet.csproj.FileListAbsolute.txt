@@ -1,0 +1,11 @@
+C:\exo_ABCDEV\enonce1\calcul_interet\bin\Debug\calcul_interet.exe.config
+C:\exo_ABCDEV\enonce1\calcul_interet\bin\Debug\calcul_interet.exe
+C:\exo_ABCDEV\enonce1\calcul_interet\bin\Debug\calcul_interet.pdb
+C:\exo_ABCDEV\enonce1\calcul_interet\obj\Debug\calcul_interet.csprojResolveAssemblyReference.cache
+C:\exo_ABCDEV\enonce1\calcul_interet\obj\Debug\calcul_interet.exe
+C:\exo_ABCDEV\enonce1\calcul_interet\obj\Debug\calcul_interet.pdb
+C:\exo_ABCDEV\exo_algoV1\calcul_interet\bin\Debug\calcul_interet.exe.config
+C:\exo_ABCDEV\exo_algoV1\calcul_interet\obj\Debug\calcul_interet.exe
+C:\exo_ABCDEV\exo_algoV1\calcul_interet\obj\Debug\calcul_interet.pdb
+C:\exo_ABCDEV\exo_algoV1\calcul_interet\bin\Debug\calcul_interet.exe
+C:\exo_ABCDEV\exo_algoV1\calcul_interet\bin\Debug\calcul_interet.pdb

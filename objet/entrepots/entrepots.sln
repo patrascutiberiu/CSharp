@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "entrepots", "entrepots\entrepots.csproj", "{A08CA4FD-F0C6-47EA-9C3E-05B3CEC8AF89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "entrepot_preramplis", "entrepot_preramplis\entrepot_preramplis.csproj", "{2213535A-94A8-453A-8AA5-EBD822A5C523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A08CA4FD-F0C6-47EA-9C3E-05B3CEC8AF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08CA4FD-F0C6-47EA-9C3E-05B3CEC8AF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08CA4FD-F0C6-47EA-9C3E-05B3CEC8AF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08CA4FD-F0C6-47EA-9C3E-05B3CEC8AF89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2213535A-94A8-453A-8AA5-EBD822A5C523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2213535A-94A8-453A-8AA5-EBD822A5C523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2213535A-94A8-453A-8AA5-EBD822A5C523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2213535A-94A8-453A-8AA5-EBD822A5C523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {750510A9-8D2F-49A4-8773-EFFAAECEDAF1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\annee_bissextile\bin\Debug\annee_bissextile.exe.config
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\annee_bissextile\bin\Debug\annee_bissextile.exe
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\annee_bissextile\bin\Debug\annee_bissextile.pdb
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\annee_bissextile\obj\Debug\annee_bissextile.exe
+C:\Users\CRM\Desktop\tiberiu\exo abcd\aetb_croissant\annee_bissextile\obj\Debug\annee_bissextile.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\aetb_croissant\annee_bissextile\bin\Debug\annee_bissextile.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\aetb_croissant\annee_bissextile\obj\Debug\annee_bissextile.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\aetb_croissant\annee_bissextile\obj\Debug\annee_bissextile.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\aetb_croissant\annee_bissextile\bin\Debug\annee_bissextile.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\aetb_croissant\annee_bissextile\bin\Debug\annee_bissextile.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\aetb_croissant\annee_bissextile\obj\Debug\annee_bissextile.csprojResolveAssemblyReference.cache

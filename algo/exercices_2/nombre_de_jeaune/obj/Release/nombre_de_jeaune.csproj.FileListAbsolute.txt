@@ -1,0 +1,6 @@
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\nombre_de_jeaune\bin\Release\nombre_de_jeaune.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\nombre_de_jeaune\bin\Release\nombre_de_jeaune.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\nombre_de_jeaune\bin\Release\nombre_de_jeaune.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\nombre_de_jeaune\obj\Release\nombre_de_jeaune.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\nombre_de_jeaune\obj\Release\nombre_de_jeaune.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exercices_2\nombre_de_jeaune\obj\Release\nombre_de_jeaune.pdb

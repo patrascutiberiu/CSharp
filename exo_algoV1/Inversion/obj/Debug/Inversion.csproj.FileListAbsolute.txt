@@ -1,0 +1,5 @@
+C:\exo_ABCDEV\exo_algoV1\Inversion\bin\Debug\Inversion.exe.config
+C:\exo_ABCDEV\exo_algoV1\Inversion\bin\Debug\Inversion.exe
+C:\exo_ABCDEV\exo_algoV1\Inversion\bin\Debug\Inversion.pdb
+C:\exo_ABCDEV\exo_algoV1\Inversion\obj\Debug\Inversion.exe
+C:\exo_ABCDEV\exo_algoV1\Inversion\obj\Debug\Inversion.pdb

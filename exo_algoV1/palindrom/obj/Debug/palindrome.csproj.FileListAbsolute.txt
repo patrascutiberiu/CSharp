@@ -1,0 +1,5 @@
+C:\exo_ABCDEV\exo_algoV1\palindrom\bin\Debug\palindrom.exe.config
+C:\exo_ABCDEV\exo_algoV1\palindrom\bin\Debug\palindrom.exe
+C:\exo_ABCDEV\exo_algoV1\palindrom\bin\Debug\palindrom.pdb
+C:\exo_ABCDEV\exo_algoV1\palindrom\obj\Debug\palindrom.exe
+C:\exo_ABCDEV\exo_algoV1\palindrom\obj\Debug\palindrom.pdb

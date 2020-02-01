@@ -1,0 +1,5 @@
+C:\exo_ABCDEV\exo_algoV1\majorite2fonction\bin\Debug\majorite2fonction.exe.config
+C:\exo_ABCDEV\exo_algoV1\majorite2fonction\bin\Debug\majorite2fonction.exe
+C:\exo_ABCDEV\exo_algoV1\majorite2fonction\bin\Debug\majorite2fonction.pdb
+C:\exo_ABCDEV\exo_algoV1\majorite2fonction\obj\Debug\majorite2fonction.exe
+C:\exo_ABCDEV\exo_algoV1\majorite2fonction\obj\Debug\majorite2fonction.pdb

@@ -1,0 +1,9 @@
+C:\exo_ABCDEV\exo_algoV1\login_v2_liste\bin\Debug\login_v2_liste.exe.config
+C:\exo_ABCDEV\exo_algoV1\login_v2_liste\bin\Debug\login_v2_liste.exe
+C:\exo_ABCDEV\exo_algoV1\login_v2_liste\bin\Debug\login_v2_liste.pdb
+C:\exo_ABCDEV\exo_algoV1\login_v2_liste\obj\Debug\login_v2_liste.csprojResolveAssemblyReference.cache
+C:\exo_ABCDEV\exo_algoV1\login_v2_liste\obj\Debug\login_v2_liste.exe
+C:\exo_ABCDEV\exo_algoV1\login_v2_liste\obj\Debug\login_v2_liste.pdb
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exo_algoV1\login_v2_liste\bin\Debug\login_v2_liste.exe.config
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exo_algoV1\login_v2_liste\obj\Debug\login_v2_liste.exe
+C:\Users\CRM\Desktop\tiberiu\tiberiu-abc.dev\exo_algoV1\login_v2_liste\obj\Debug\login_v2_liste.pdb
